@@ -16,4 +16,4 @@ For example:
 const num = [5, 6, 3, 8, 6, 7];
 Sample Output:
  Sum: 35
- Product: 30240
+ Product: 30240.
